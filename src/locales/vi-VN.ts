@@ -267,7 +267,7 @@ export default {
     "server": "Máy chủ",
     "about": "Về",
     "model": "Mô hình",
-    "sysname": "Trí tuệ nhân tạo vẽ"
+    "sysname": "UtopiAI"
   },
   "mjtab": {
     "chat": "nói",

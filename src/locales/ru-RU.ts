@@ -271,7 +271,7 @@ export default {
     "server": "Сервер",
     "about": "О нас",
     "model": "Модель",
-    "sysname": "Искусственный интеллект для рисования"
+    "sysname": "UtopiAI"
   },
   "mjtab": {
     "chat": "Чат",

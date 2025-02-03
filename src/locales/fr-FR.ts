@@ -268,7 +268,7 @@ export default {
         "server": "Serveur",
         "about": "À Propos",
         "model": "Modèle",
-        "sysname": "Dessin AI"
+        "sysname": "UtopiAI"
     },
     "mjtab": {
         "chat": "Chat",

@@ -267,7 +267,7 @@ export default {
         "server": "Sunucu",
         "about": "Hakkında",
         "model": "Model",
-        "sysname": "Yapay Zeka Çizimi"
+        "sysname": "UtopiAI"
     },
     "mjtab": {
         "chat": "Sohbet",

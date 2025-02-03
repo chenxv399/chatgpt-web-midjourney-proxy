@@ -267,7 +267,7 @@ export default {
     "server": "서버"
     ,"about": "소개"
     ,"model": "모델"
-    ,"sysname": "AI 그림"
+    ,"sysname": "UtopiAI"
   },
   "mjtab": {
     "chat": "대화"
