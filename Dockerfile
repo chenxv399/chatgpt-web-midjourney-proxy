@@ -1,6 +1,8 @@
 # build front-end
 FROM node:19-alpine as frontend
 
+RUN apk add --no-cache git
+
 RUN npm install pnpm -g
 
 WORKDIR /app
@@ -16,6 +18,8 @@ RUN pnpm run build
 # build backend
 FROM node:19-alpine as backend
 
+RUN apk add --no-cache git
+
 RUN npm install pnpm -g
 
 WORKDIR /app
@@ -30,6 +34,8 @@ RUN pnpm build
 
 # service
 FROM node:19-alpine
+
+RUN apk add --no-cache git
 
 RUN npm install pnpm -g
 
